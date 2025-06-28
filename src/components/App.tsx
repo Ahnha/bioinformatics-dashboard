@@ -7,7 +7,7 @@ const App: React.FC = () => {
     const [navbarPosition, setNavbarPosition] = useState<string>('navbar-top');
 
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/bioinformatics-dashboard">
             <Navbar
                 navbarPosition={navbarPosition}
                 setNavbarPosition={setNavbarPosition}
