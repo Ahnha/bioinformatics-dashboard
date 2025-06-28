@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, #141e30, #243b55);
+    color: #f9f9f9;
+    font-family: 'Lora', serif;
+    transition: all 0.4s ease;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(5px);
+}
+
+nav a {
+    color: #f9f9f9;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffeb3b;
+}
+
+select,
+button {
+    background-color: rgba(255, 255, 255, 0.1);
+    color: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
