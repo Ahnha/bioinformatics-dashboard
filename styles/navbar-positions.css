@@ -1,0 +1,55 @@
+/* public/styles/navbar-positions.css */
+
+/* Top navbar */
+.navbar-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: inherit;
+}
+
+/* Bottom navbar */
+.navbar-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    background-color: inherit;
+}
+
+/* Left navbar */
+.navbar-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 150px;
+    background-color: inherit;
+}
+
+/* Right navbar */
+.navbar-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 150px;
+    background-color: inherit;
+}
