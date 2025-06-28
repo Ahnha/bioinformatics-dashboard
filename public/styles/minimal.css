@@ -36,3 +36,20 @@ button {
 button:hover {
     background-color: #555;
 }
+
+.gc-project-container {
+  max-width: 600px; /* limits it on larger screens */
+  margin: 0 auto;   /* centers it */
+  padding: 10px;
+}
+
+.gc-project-container textarea {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box; /* important to include padding/borders in width */
+  font-size: 16px;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  resize: vertical; /* allows user to resize height on mobile */
+}
