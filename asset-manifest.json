@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bioinformatics-dashboard/static/css/main.9e7464a8.css",
-    "main.js": "/bioinformatics-dashboard/static/js/main.52c033e7.js",
+    "main.js": "/bioinformatics-dashboard/static/js/main.8223d5ad.js",
     "index.html": "/bioinformatics-dashboard/index.html",
     "main.9e7464a8.css.map": "/bioinformatics-dashboard/static/css/main.9e7464a8.css.map",
-    "main.52c033e7.js.map": "/bioinformatics-dashboard/static/js/main.52c033e7.js.map"
+    "main.8223d5ad.js.map": "/bioinformatics-dashboard/static/js/main.8223d5ad.js.map"
   },
   "entrypoints": [
     "static/css/main.9e7464a8.css",
-    "static/js/main.52c033e7.js"
+    "static/js/main.8223d5ad.js"
   ]
 }
