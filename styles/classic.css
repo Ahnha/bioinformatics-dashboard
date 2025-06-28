@@ -53,8 +53,3 @@ button:hover {
   resize: vertical; /* allows user to resize height on mobile */
 }
 
-.gc-project-container {
-  max-width: 600px; /* limits it on larger screens */
-  margin: 0 auto;   /* centers it */
-  padding: 10px;
-}
